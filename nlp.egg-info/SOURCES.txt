@@ -1,0 +1,10 @@
+README.rst
+setup.py
+nlp/NLP100_2020rev1.ipynb
+nlp/__init__.py
+nlp/popular-names.txt
+nlp.egg-info/PKG-INFO
+nlp.egg-info/SOURCES.txt
+nlp.egg-info/dependency_links.txt
+nlp.egg-info/top_level.txt
+nlp/.ipynb_checkpoints/NLP100_2020rev1-checkpoint.ipynb
